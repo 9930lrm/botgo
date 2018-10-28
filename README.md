@@ -1,0 +1,2 @@
+# botgo
+my com
